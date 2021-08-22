@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftPM_playground",
+        "repositoryURL": "https://github.com/branch10480/SwiftPM_playground.git",
+        "state": {
+          "branch": "main",
+          "revision": "e1980b5777604d170432a32a5eb4c022bdcc7765",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
